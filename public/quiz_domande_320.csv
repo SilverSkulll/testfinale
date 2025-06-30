@@ -79,6 +79,16 @@ Numero;Domanda;A;B;C;Corretta
 78;L'illecito civile ha come conseguenza sanzionatoria;Il pagamento di una ammenda;Il pagamento di una somma di denaro di tipo risarcitorio/riparatorio;Il pagamento di una multa;B
 79;L'illecito disciplinare è;Un illecito amministrativo;Un illecito civile;Un illecito penale;A
 80;L'oblazione estingue;Lillecito amministrativo;Solo la sanzione accessoria;La contravvenzione;C
+81;Un dato personale è;Informazioni che identificano o rendono identificabile una persona fisica e che possono fornire dettagli sulle sue caratteristiche;Un dato che può ledere un diritto di un soggetto;Lanagrafica di un soggetto;A
+82;Il Titolare del trattamento è chiamato a;Stabilire finalità e mezzi del trattamento;Far rispettare quanto previsto dalla Direttiva 680;Far rispettare quanto previsto dalla Direttiva 680 e comprovare tale rispetto;C
+83;Il Registro dei trattamenti;Contiene una descrizione delle misure di sicurezza implementate per ogni specifico trattamento;È opzionale;Nessuna delle precedenti risposte;A
+84;La Data Protection Impact Analysis (DPIA);Viene svolta dall'Autorità garante per la protezione dei dati personali;Va eseguita solo in casi particolari;Va sempre eseguita;B
+85;La sicurezza dei trattamenti;Deve essere adeguata alla finalità dei trattamenti stessi;Deve tener conto dei rischi per le persone fisiche;Entrambe le precedenti risposte;C
+86;I log relativi agli accessi;Possono essere messi a disposizione dellAutorità garante per la protezione dei dati personali;Non possono contenere informazioni sul trattamento eseguito;Non possono contenere informazioni sulloperatore di polizia che ha effettuato laccesso;A
+87;Uneventuale violazione di dati personali;Può essere tenuta segreta per motivi di sicurezza;Non va necessariamente comunicata allAutorità garante per la protezione dei dati personali;Non va necessariamente notificata agli interessati;C
+88;La garanzia di continuità dei sistemi in caso di malfunzionamenti;Rappresenta una scelta strategica demandata allAutorità garante per la protezione dei dati personali;È uno degli obiettivi di sicurezza definito dalla norma;Non rappresenta un aspetto di interesse nella Direttiva 680;B
+89;Il Responsabile della protezione dei dati;Deve avere assicurata lindipendenza nelle proprie determinazioni dalle scelte strategiche del titolare;Deve rendere conto al titolare del trattamento;È un ruolo che può essere ricoperto dallo stesso soggetto che ricopre il ruolo di titolare del trattamento;A
+90;Il trasferimento di dati di polizia ad altri Paesi membri;Non è mai permesso;È sempre permesso;È permesso solo sotto opportune condizioni;C
 111;Quante sono le fasi delliter criminis?;sei;quattro;tre;B
 112;Qual è lelemento soggettivo del delitto tentato?;il dolo;la preterintenzione;la colpa;A
 113;Come è punito il delitto tentato rispetto al delitto consumato?;meno severamente;non sono previste differenze di pena;più severamente;A
